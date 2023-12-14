@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\Carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\Carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Carousel3.jpg",
+      "PackagePath": "staticwebassets\\images\\Carousel3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
