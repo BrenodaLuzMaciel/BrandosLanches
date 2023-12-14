@@ -28,3 +28,4 @@ C:\Users\Breno\source\repos\BrandosLanches\BrandosLanches\obj\Debug\net6.0\refin
 C:\Users\Breno\source\repos\BrandosLanches\BrandosLanches\obj\Debug\net6.0\BrandosLanches.pdb
 C:\Users\Breno\source\repos\BrandosLanches\BrandosLanches\obj\Debug\net6.0\BrandosLanches.genruntimeconfig.cache
 C:\Users\Breno\source\repos\BrandosLanches\BrandosLanches\obj\Debug\net6.0\ref\BrandosLanches.dll
+C:\Users\Breno\source\repos\BrandosLanches\BrandosLanches\obj\Debug\net6.0\BrandosLanches.sourcelink.json
