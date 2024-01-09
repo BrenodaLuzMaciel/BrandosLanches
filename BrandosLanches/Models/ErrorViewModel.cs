@@ -1,3 +1,5 @@
+#nullable enable
+
 namespace BrandosLanches.Models
 {
     public class ErrorViewModel
