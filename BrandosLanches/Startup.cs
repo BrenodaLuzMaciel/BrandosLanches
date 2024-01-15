@@ -1,4 +1,6 @@
 ﻿using BrandosLanches.Context;
+using BrandosLanches.Repositories;
+using BrandosLanches.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace BrandosLanches;
@@ -17,6 +19,9 @@ public class Startup
     {
         services.AddDbContext<AppDbContext>(options => 
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+        services.AddTransient<ILancheRepository, LancheRepository>();
+        services.AddTransient<ICategoriaRepository, CategoriaRepository>();
 
         services.AddControllersWithViews();
     }
