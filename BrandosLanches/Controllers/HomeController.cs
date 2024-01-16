@@ -8,6 +8,8 @@ namespace BrandosLanches.Controllers
     {
         public IActionResult Index()
         {
+            TempData["Nome"] = "Breno";
+
             return View();
         }
         
