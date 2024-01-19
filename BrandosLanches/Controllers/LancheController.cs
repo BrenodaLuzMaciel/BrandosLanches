@@ -1,4 +1,5 @@
 ﻿using BrandosLanches.Repositories.Interfaces;
+using BrandosLanches.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BrandosLanches.Controllers
@@ -13,8 +14,13 @@ namespace BrandosLanches.Controllers
 
         public IActionResult List()
         {
-            var lanches = _lancheRepository.Lanches;
-            return View(lanches);
+            //var lanches = _lancheRepository.Lanches;
+            //return View(lanches);
+            var lanchesListViewModel = new LancheListViewModel();
+            lanchesListViewModel.Lanches = _lancheRepository.Lanches;
+            lanchesListViewModel.CategoriaAtual = "Categoria Atual";
+
+            return View(lanchesListViewModel);
         }
     }
 }
