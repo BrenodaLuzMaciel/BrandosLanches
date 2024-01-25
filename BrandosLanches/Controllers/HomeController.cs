@@ -1,4 +1,6 @@
 ﻿using BrandosLanches.Models;
+using BrandosLanches.Repositories.Interfaces;
+using BrandosLanches.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,11 +8,20 @@ namespace BrandosLanches.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly ILancheRepository _lancheRepository;
+
+        public HomeController(ILancheRepository lancheRepository)
+        {
+            _lancheRepository = lancheRepository;
+        }
+
         public IActionResult Index()
         {
-            TempData["Nome"] = "Breno";
-
-            return View();
+            var homeViewModel = new HomeViewModel
+            {
+                LanchesPreferidos = _lancheRepository.LanchesPreferidos
+            };
+            return View(homeViewModel);
         }
         
         public IActionResult Demo()

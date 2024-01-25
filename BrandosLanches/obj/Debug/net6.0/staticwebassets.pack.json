@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\images\\Carousel3.jpg"
     },
     {
+      "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Carrinho.jpg",
+      "PackagePath": "staticwebassets\\images\\Carrinho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Lixeira.jpg",
+      "PackagePath": "staticwebassets\\images\\Lixeira.jpg"
+    },
+    {
       "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
