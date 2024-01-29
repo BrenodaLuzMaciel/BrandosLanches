@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kZ2kG53Fs/CKf59IhJwQeDRJpJDUYvekE1FV58DmBMw=",
+  "Hash": "0FMyqPu7BgEM3kd7CgHpcNckEhiLGEyjrZ4PAukzIe0=",
   "Source": "BrandosLanches",
   "BasePath": "_content/BrandosLanches",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Carrinho.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\CarrinhoIcon.png",
+      "SourceId": "BrandosLanches",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\",
+      "BasePath": "_content/BrandosLanches",
+      "RelativePath": "images/CarrinhoIcon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CarrinhoIcon.png"
     },
     {
       "Identity": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Lixeira.jpg",

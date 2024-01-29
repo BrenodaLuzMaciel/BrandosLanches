@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\Carrinho.jpg"
     },
     {
+      "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\CarrinhoIcon.png",
+      "PackagePath": "staticwebassets\\images\\CarrinhoIcon.png"
+    },
+    {
       "Id": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Lixeira.jpg",
       "PackagePath": "staticwebassets\\images\\Lixeira.jpg"
     },
