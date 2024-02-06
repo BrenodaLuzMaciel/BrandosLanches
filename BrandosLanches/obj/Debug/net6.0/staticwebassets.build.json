@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JKpL1QjYEr5txAYnDBt/4hUiDbCm+qXCaYL8N+2Rnl0=",
+  "Hash": "B9sXOcSJYKBFoZQ14UVlDTpdPDlhhgHACpKIh2GTWuY=",
   "Source": "BrandosLanches",
   "BasePath": "_content/BrandosLanches",
   "Mode": "Default",
@@ -245,25 +245,6 @@
       "OriginalItemSpec": "wwwroot\\images\\Home-iconred.png"
     },
     {
-      "Identity": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\Lixeira.png",
-      "SourceId": "BrandosLanches",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\",
-      "BasePath": "_content/BrandosLanches",
-      "RelativePath": "images/Lixeira.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Lixeira.png"
-    },
-    {
       "Identity": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\phone-app-icon.png",
       "SourceId": "BrandosLanches",
       "SourceType": "Discovered",
@@ -281,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\phone-app-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\images\\remove.ico",
+      "SourceId": "BrandosLanches",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\",
+      "BasePath": "_content/BrandosLanches",
+      "RelativePath": "images/remove.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\remove.ico"
     },
     {
       "Identity": "C:\\Users\\Breno\\source\\repos\\BrandosLanches\\BrandosLanches\\wwwroot\\js\\site.js",
